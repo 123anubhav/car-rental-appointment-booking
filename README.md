@@ -3,8 +3,10 @@
 ## PART I :- How to Run this Project :-
 
 Step 1 --> Install MongoDB Compass.
+
 Step 2 --> Go to the path -> "appointment-booking\api" and run --> npm i .
        --> Then run --> npm start.
+       
 Step 3 --> Go to the path -> "appointment-booking\app" and run --> npm i  .
        --> Then run --> npm start
 
